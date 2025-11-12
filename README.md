@@ -32,9 +32,14 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 ---
 ## 🧩Databases:
-  - [![MySQL](https://img.shields.io/badge/MySQL-%230075A8.svg?logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-%230075A8.svg?logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
 ## Data Visualization Tools:
-   - [![Seaborn](https://img.shields.io/badge/Seaborn-%2376B900.svg?logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
-     [![Matplotlib](https://img.shields.io/badge/-Matplotlib-005C8C?style=flat&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%2376B900.svg?logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-005C8C?style=flat&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
+
+## Tools & Platforms:
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/)
+
 ## ❤ Thank you for visiting! Don't forget to give ⭐💫
