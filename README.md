@@ -36,5 +36,5 @@
 
 ## Data Visualization Tools:
    - [![Seaborn](https://img.shields.io/badge/Seaborn-%2376B900.svg?logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
-     [![Matplotlib](https://search.brave.com/images?q=matplotlib+logo+svg+clean+link&context=W3sic3JjIjoiaHR0cHM6Ly9pbWdzLnNlYXJjaC5icmF2ZS5jb20vQ0hYcmRhRUdlSkFzaGtaNWJiRkd2a1FrSUR5UU9uZ25USTFUeWtNdmtqdy9yczpmaXQ6NTAwOjA6MDowL2c6Y2UvYUhSMGNITTZMeTlvWlhodC9iM011WTI5dEwyWnlaV1ZrL1pYWjBiMjlzY3k5emRtZGYvYVdOdmJuTXZiV0YwY0d4di9kR3hwWWk5dFlYUndiRzkwL2JHbGlMWEJzWVdsdUxuTjIvWnciLCJ0ZXh0IjoibWF0cGxvdGxpYi1wbGFpbiBtYXRwbG90bGliIGljb24gLSBGcmVlIFNWRyBkb3dubG9hZCIsInBhZ2VfdXJsIjoiaHR0cHM6Ly9oZXhtb3MuY29tL2ZyZWVkZXZ0b29scy9zdmdfaWNvbnMvbWF0cGxvdGxpYi9tYXRwbG90bGliLXBsYWluLyJ9XQ%3D%3D&sig=7d0b23f256f7155a1b20ed1d01184edc88e614eadd79cd7e30f50cd21764aa26&nonce=a856c834f434066147d104f16a8bf091)](https://matplotlib.org/)
+     [![Matplotlib](https://images.seeklogo.com/logo-png/42/1/matplotlib-logo-png_seeklogo-428047.png)](https://matplotlib.org/)
 ## ❤ Thank you for visiting! Don't forget to give ⭐💫
