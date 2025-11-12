@@ -10,10 +10,6 @@
 
 <h3 align="center">⚡ "Data is like the sea, vast and full of potential, while insights are the sun, shining light on our understanding." 🤑 - Malkanagouda Patil</h3>
 
-## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aatish_naik1/?__pwa=1#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aatish-naik-0498b32ba)
-
 ## 🛠 My Favorite Tools:
 - [![Excel](https://img.shields.io/badge/Excel-%230078D7.svg?logo=Microsoft%20Excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 - [![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white)](https://www.python.org/)
@@ -34,12 +30,23 @@
 ## 🧩Databases:
 [![MySQL](https://img.shields.io/badge/MySQL-%230075A8.svg?logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
-## Data Visualization Tools:
+## 📊Data Visualization Tools:
 [![Seaborn](https://img.shields.io/badge/Seaborn-%2376B900.svg?logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-005C8C?style=flat&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
 
-## Tools & Platforms:
+## ⚙🧰Tools & Platforms:
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white))](https://code.visualstudio.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/)
+---
+## 📚 Currently Learning:
+## 💡 Expanding skills in:
+* Advanced SQL optimization & performance tuning
+* Power BI & Tableau storytelling dashboards
+* End-to-end data analytics pipelines
+
+🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aatish_naik1/?__pwa=1#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aatish-naik-0498b32ba)
+
 
 ## ❤ Thank you for visiting! Don't forget to give ⭐💫
