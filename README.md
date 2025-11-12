@@ -36,5 +36,5 @@
 
 ## Data Visualization Tools:
    - [![Seaborn](https://img.shields.io/badge/Seaborn-%2376B900.svg?logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
-     [![Matplotlib](https://images.seeklogo.com/logo-png/42/1/matplotlib-logo-png_seeklogo-428047.png)](https://matplotlib.org/)
+     [![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 ## ❤ Thank you for visiting! Don't forget to give ⭐💫
