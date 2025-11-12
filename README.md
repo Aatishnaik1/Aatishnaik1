@@ -26,12 +26,13 @@
 - [![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=Git&logoColor=white)](https://git-scm.com/)
   
 ## ⚙ My Skills and Tools
+---
 ## Programming Languages & Libraries:
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=NumPy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-
+---
   
   
 
