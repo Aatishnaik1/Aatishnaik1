@@ -20,7 +20,6 @@
 - [![Seaborn](https://img.shields.io/badge/Seaborn-%2376B900.svg?logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
 - [![Scikit-learn](https://img.shields.io/badge/Scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 - [![MySQL](https://img.shields.io/badge/MySQL-%230075A8.svg?logo=MySQL&logoColor=white)](https://www.mysql.com/)
-- [![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?logo=OpenCV&logoColor=white)](https://opencv.org/)
 - [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/)
 - [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=Git&logoColor=white)](https://git-scm.com/)
@@ -32,7 +31,10 @@
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 ---
-  
-  
+## 🧩Databases:
+  - [![MySQL](https://img.shields.io/badge/MySQL-%230075A8.svg?logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
+## Data Visualization Tools:
+   - [![Seaborn](https://img.shields.io/badge/Seaborn-%2376B900.svg?logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
+     [![Matplotlib](https://seeklogo.com/vector-logo/428047/matplotlib)](https://matplotlib.org/)
 ## ❤ Thank you for visiting! Don't forget to give ⭐💫
