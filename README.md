@@ -24,6 +24,14 @@
 - [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/)
 - [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=Git&logoColor=white)](https://git-scm.com/)
+
+  **Programming Languages & Libraries**
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=NumPy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+
+  
   
 
 ## ❤ Thank you for visiting! Don't forget to give ⭐💫
