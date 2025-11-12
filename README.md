@@ -24,6 +24,7 @@
 - [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/)
 - [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=Git&logoColor=white)](https://git-scm.com/)
+  
 
 ## Programming Languages & Libraries:
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white)](https://www.python.org/)
