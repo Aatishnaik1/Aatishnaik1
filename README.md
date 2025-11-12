@@ -3,16 +3,15 @@
 <h3 align="center">"Turning raw data into valuable insights, like cutting diamonds from rocks."</h3>
 
 ## 💼 About Me:
-- 🔭 Currently working at Analogica Software Development Pvt Ltd
 - 🌱 Passionate about learning Data Engineering & Data Science
 - 👯 Open to collaborations and new opportunities
 - 💬 Ask me about Machine learning, Data Analysis, Visualization, Big Data, Data storage, Data extract
-- 📫 You can reach me at: [mvrp7143@gmail.com](mailto:mvrp7143@gmail.com)
+- 📫 You can reach me at: [cnaik4479@gmail.com](mailto:cnaik4479@gmail.com)
 
 <h3 align="center">⚡ "Data is like the sea, vast and full of potential, while insights are the sun, shining light on our understanding." 🤑 - Malkanagouda Patil</h3>
 
 ## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/malkupatil/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aatish_naik1/?__pwa=1#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvrp7143)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-yellow?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/malkanagouda)
 
