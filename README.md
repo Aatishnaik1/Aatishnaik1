@@ -8,7 +8,7 @@
 - 💬 Ask me about Machine learning, Data Analysis, Visualization, Big Data, Data storage, Data extract
 - 📫 You can reach me at: [cnaik4479@gmail.com](mailto:cnaik4479@gmail.com)
 
-<h3 align="center">⚡ "Data is like the sea, vast and full of potential, while insights are the sun, shining light on our understanding." 🤑 - Malkanagouda Patil</h3>
+<h3 align="center">⚡ "Data is like the sea, vast and full of potential, while insights are the sun, shining light on our understanding."</h3>
 
 ## 🛠 My Favorite Tools:
 - [![Excel](https://img.shields.io/badge/Excel-%230078D7.svg?logo=Microsoft%20Excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
