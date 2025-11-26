@@ -27,6 +27,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 ---
+
 ## 🧩Databases:
 [![MySQL](https://img.shields.io/badge/MySQL-%230075A8.svg?logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
@@ -40,6 +41,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/)
 ---
 ## 📚 Currently Learning:
+Advanced SQL optimization & performance tuning
+ Power BI & Tableau storytelling dashboards
+ End-to-end data analytics pipelines
 -----
 
 ## 💡 Expanding skills in:
