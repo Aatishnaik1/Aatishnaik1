@@ -1,6 +1,6 @@
 <!-- 🌟 CREATIVE GITHUB README FOR HARSHANTH V 🌟 -->
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#4FD1C5;">Harshanth V</span>!</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#4FD1C5;">Aatish Naik</span>!</h1>
 
 <h3 align="center">🌟 "From query to clarity — decoding data with analytics, SQL, and Python." 🌟</h3>
 
@@ -16,7 +16,7 @@
 - 🌱 Currently exploring *Data Analytics & Visualization* using real-world datasets  
 - 🧠 Skilled in *Python, **SQL, **Pandas, and **Matplotlib*  
 - 🚀 Eager to collaborate on *data-driven projects* and real-world analytics case studies  
-- 📫 Reach me at: [balajiharshanth1234@gmail.com](mailto:balajiharshanth1234@gmail.com)
+- 📫 Reach me at: [cnaik4479@gmail.com](mailto:cnaik4479@gmail.com)
 
 ---
 
@@ -65,22 +65,19 @@
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshanth-v-1a2356281"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.instagram.com/h_a_r_s_h_a_n_th?igsh=djJhNXRzZWRqYWhr&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:balajiharshanth1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?logo=instagram&logoColor=E4405F)](https://www.instagram.com/aatish_naik1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/aatish-naik-0498b32ba)
 
 ---
 
 ## ⚡ GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshanth-v&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshanth-v&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aatishnaik1&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aatishnaik1&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshanth-v&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aatishnaik1&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%"/>
 </p>
 
 ---
