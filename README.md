@@ -33,7 +33,7 @@
 ## 📊Data Visualization Tools:
 [![Seaborn](https://img.shields.io/badge/Seaborn-%2376B900.svg?logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-005C8C?style=flat&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Excel]("https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://excel.cloud.microsoft/)
+[![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://excel.cloud.microsoft/)
 
 ## ⚙🧰Tools & Platforms:
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white))](https://code.visualstudio.com/)
