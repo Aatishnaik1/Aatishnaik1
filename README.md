@@ -102,17 +102,13 @@ Portfolio website
 HTML/CSS/JS personal website  
 👉 https://github.com/Aatishnaik1/Portfolio  
 
-### 🔹 Vehicle-data-analysis  
-Vehicle dataset analytics  
-👉 https://github.com/Aatishnaik1/Vehicle-data-analysis  
+### 🔹 Data_Analyst
+Dataset analytics
+👉 https://github.com/Aatishnaik1/Data-Analyst
 
-### 🔹 MySQL-Notes  
+### 🔹 Python Basics  
 Learning + practice notes  
-👉 https://github.com/Aatishnaik1/MySQL-Notes  
-
-### 🔹 Bike-Data-Analysis  
-Analysis on bike dataset  
-👉 https://github.com/Aatishnaik1/Bike-Data-Analysis  
+👉 https://github.com/Aatishnaik1/Python-Basics
 
 ---
 
